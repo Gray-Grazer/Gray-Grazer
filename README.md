@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=ffe6df&height=320&section=header&text=HI&nbsp;&fontSize=90&fontColor=890000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gray-Grazer&layout=compact&theme=rose)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gray-Grazer&show_icons=true&theme=rose)
 
 ## 🐣Studying
