@@ -1,6 +1,4 @@
-```sh
-**testing**
-```
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gray-Grazer&show_icons=true&theme=rose)
 <!--
 **Gray-Grazer/Gray-Grazer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
