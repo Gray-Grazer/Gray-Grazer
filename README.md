@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gray-Grazer&show_icons=true&theme=rose)
 
-
+## 🐣Studying
 <a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <!--
 **Gray-Grazer/Gray-Grazer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
