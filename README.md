@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=ffe6df&height=320&section=header&text=HI&nbsp;&fontSize=90&fontColor=890000)
+![header](https://capsule-render.vercel.app/api?type=slice&color=ffe6df&height=280&section=header&text=HI&nbsp;&fontSize=90&fontColor=890000)
 
 
 #### 🐣Studying
