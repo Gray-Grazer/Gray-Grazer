@@ -10,6 +10,7 @@
 
 ### Content
 <a href="https://github.com" target="_blank"><img src="https://img.icons8.com/clouds/100/instagram-new--v3.png" alt="instagram-new--v3"/></a>
+<a href="https://github.com" target="_blank"><img src="https://img.icons8.com/clouds/100/gmail-new.png" alt="gmail-new"/></a>
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=ffe6df&height=150&section=footer&fontColor=890000)
 
 
