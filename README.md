@@ -6,6 +6,8 @@
 
 <div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gray-Grazer&layout=compact&theme=rose)
+</div>
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gray-Grazer&show_icons=true&theme=rose)
 </div>
 <!--
