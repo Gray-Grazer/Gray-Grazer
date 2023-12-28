@@ -15,6 +15,7 @@
 ![Static Badge](https://img.shields.io/badge/mysql-ffffff?style=for-the-badge&logo=mysql&logoColor=ffffff&color=4479A1)
 <br>
 ### ⚡, Deployment ...
+![Static Badge](https://img.shields.io/badge/ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=ffffff&color=E95420)
 ![Static Badge](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=000000&color=2496ED)
 ![Static Badge](https://img.shields.io/badge/amazon_ec2-000000?style=for-the-badge&logo=amazonec2&logoColor=000000&color=FF9900)
 <br>
