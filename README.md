@@ -1,9 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=ffe6df&height=280&section=header&text=HI&nbsp;&fontSize=90&fontColor=890000)
 
 ### 🐣I’m currently learning Back...
+![Static Badge](https://img.shields.io/badge/spring_boot-000000?style=for-the-badge&logo=springboot&logoColor=ffffff&color=6DB33F)
 ![Static Badge](https://img.shields.io/badge/swagger-000000?style=for-the-badge&logo=swagger&logoColor=000000&color=85EA2D)
 
 ### ⚡and learning Front...
+![Static Badge](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=000000&color=61DAFB)
 ![Static Badge](https://img.shields.io/badge/redux-000000?style=for-the-badge&logo=redux&logoColor=ffffff&color=764ABC)
 ![Static Badge](https://img.shields.io/badge/Axios-555555?style=for-the-badge&logo=axios&logoColor=ffffff&color=5A29E4)
 
@@ -20,7 +22,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gray-Grazer&show_icons=true&theme=rose)
 
-### Content
+<!--### Content -->
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=ffe6df&height=150&section=footer&fontColor=890000)
 
 <!--
