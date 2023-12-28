@@ -9,7 +9,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gray-Grazer&show_icons=true&theme=rose)
 
 ### Content
-<a href="https://www.instagram.com" target="_blank"><img src="https://img.icons8.com/bubbles/100/instagram-new--v2.png" height=75px width=75px alt="instagram-new--v2"/></a>
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=ffe6df&height=150&section=footer&fontColor=890000)
 
 <!--
